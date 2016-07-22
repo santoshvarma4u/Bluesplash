@@ -11,7 +11,10 @@ Add this to your build.grade:
 ```javascript
 	repositories {
 	//...
-        maven {  url  "http://dl.bintray.com/santoshvarma4u/maven"  }
+        maven { 
+         url  "http://dl.bintray.com/santoshvarma4u/maven" 
+         url "https://jitpack.io"
+         }
     }
 ```
 
