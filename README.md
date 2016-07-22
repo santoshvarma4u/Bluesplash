@@ -10,10 +10,9 @@
 
 <p>
 repositories {
-//....
-        maven {
-            url  "http://dl.bintray.com/santoshvarma4u/maven"
-        }
-  }
+        maven { 
+            url  "http://dl.bintray.com/santoshvarma4u/maven" 
+        } 
+  }<br>
 </p>
 
